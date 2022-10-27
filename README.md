@@ -16,7 +16,7 @@
 
 #### Question 1: what do you like about Tech
 
-Answer: The fact that i can build a website for you codings and designs makes me love it more .
+Answer: The fact that i can build a website for you via codings and designs, makes me love it more .
 
 #### Question 2: Do you think one can take web development as a career in life.
 
