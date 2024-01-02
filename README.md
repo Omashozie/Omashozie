@@ -23,17 +23,17 @@ Answer: I love to solve problems that can change the world.
 Answer: Yes!. Web development can be a good skill to start up or switch careers into in life.
 
 ## 🛠 Skills
-##HTML......
+HTML......
 
-##CSS.....
+CSS.....
 
-##Javascript...
+Javascript...
 
-##Figma..
+Figma..
 
-##React.js.
+React.js.
 
-##Canva.
+Canva.
 
 
 ## Other Common GitHub Profile Sections
